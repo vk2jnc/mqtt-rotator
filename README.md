@@ -8,9 +8,10 @@ This is very still a work in progress - and i'm not good at coding!
 
 ## Pre-reqs
 
-Adafruit motorkit - pip3 install adafruit-circuitpython-motorkit or https://github.com/adafruit/Adafruit_CircuitPython_MotorKit
-Paho Mqtt - pip3 install paho.mqtt.client
-apt install mosquitto-clients - for manual publishing mqtt az el
+Adafruit motorkit -  ``` pip3 install adafruit-circuitpython-motorkit ```
+or https://github.com/adafruit/Adafruit_CircuitPython_MotorKit
+Paho Mqtt - ``` pip3 install paho.mqtt.client ```
+for manual publishing mqtt az el ``` apt install mosquitto-clients ``` 
 
 
 
