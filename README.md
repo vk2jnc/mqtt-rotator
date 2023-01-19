@@ -29,4 +29,4 @@ format it expects to see is el dregrees then a space then az dregrees for exampl
 + add park function (move to park position)
 + add stop function (stop at current position)
 + add reset function (reset current degrees to 0) 
-+ add threading for multiple motor movement 
++ add threading for multiple motor movement and updating values whilst moving
